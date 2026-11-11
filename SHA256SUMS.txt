@@ -1,2 +1,0 @@
-5445185612cc62ccdd079b8dc6da8d748a08f548ff0716e38b8fa0e3b3b6dc7c  ByteScribe_Setup_1.5.7.3.exe
-dff1043f6d823610443238c248738a1b10d6b7c434e7de0812cc39ba8ca984f2  ByteScribe_Network_Setup_Configurator_1.5.7.3.exe
